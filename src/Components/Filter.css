@@ -1,0 +1,124 @@
+.filterCont {
+    display: flex;
+    justify-content: center;
+}
+
+.navSearchLinks {
+    display: flex;
+    right: 25%;
+    position: absolute;
+    gap: 10px;
+    width: max-content;
+    
+}
+
+.navSearchLinks a {
+    width: max-content;
+   
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.sideSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.sidebarRight {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.iconCont{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.tuneIcon {
+    
+    cursor: pointer;
+    left: 150px;
+    padding: 10px;
+    z-index: 100;
+}
+
+.sortIcon {
+   justify-self: flex-end;
+    cursor: pointer;
+    right: 150px;
+    padding: 10px;
+    z-index: 100;
+}
+
+.sidebarLeft,
+.sidebarRight {
+
+    padding: 10px;
+    border: 1px solid lightgrey;
+}
+
+.price {
+    border: 1px solid lightgrey;
+}
+
+.rating,
+.discount,
+.availability,
+.offers {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 250px;
+    border: 1px solid lightgrey;
+    background-color: #fff;
+    padding: 10px;
+}
+
+
+
+input[type='checkbox'] {
+    margin: 10px;
+
+}
+
+
+
+@media(max-width:768px) {
+    .sidebarLeft {
+        position: absolute;
+        left: 10px;
+    }
+
+
+
+    .navSearchLinks {
+        flex-direction: column;
+        align-items: center;
+        background-color: #fff;
+        width: max-content;
+        padding: 10px;
+
+    }
+
+    .navSearchLinks a {
+        flex: 1;
+        width: 100%;
+
+    }
+
+    .navSearchLinks a:hover {
+        background-color: lightgrey;
+        color: black;
+    }
+}

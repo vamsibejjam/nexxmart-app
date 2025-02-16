@@ -1,0 +1,43 @@
+.box {
+    background-color: #fff;
+    width: 250px;
+    border: 1px solid lightgrey;
+   
+    display: flex;
+    flex-direction: column;
+   
+    padding: 10px;
+    align-items: center;  
+}
+
+.box h6 {
+    margin-bottom: 10px;
+}
+
+.box p{
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+
+.ranger {
+    width: 200px;
+    height: 3px;
+    background-color: #cdd9ed;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.ranger .thumb {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 2px solid #275efe;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}

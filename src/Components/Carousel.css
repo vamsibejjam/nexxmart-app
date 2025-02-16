@@ -1,0 +1,171 @@
+.productContainer {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.productContainer a {
+  text-decoration: none;
+}
+
+.slider {
+  display: flex;
+  width: 100%;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  min-width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.product {
+
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 5px;
+  height: 250px;
+}
+
+.productimage {
+  overflow: hidden;
+  object-fit: contain;
+
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+  height: 150px;
+}
+
+.infoTitle {
+
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
+  text-align: center !important;
+  height: auto !important;
+  font-size: 14px !important;
+  font-weight: 500;
+  color: #333;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+
+
+
+.productRating {
+
+  width: max-content;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  font-size: 12px !important;
+}
+
+.productPrice {
+  color: black;
+  font-size: 14px !important;
+  font-weight: bold;
+  margin: 0;
+}
+
+.productPrice span {
+  color: #dc3545;
+}
+
+.prevbtn,
+.nextbtn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: #fff;
+  font-size: 24px;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.prevbtn {
+  left: 10px;
+}
+
+.nextbtn {
+  right: 10px;
+}
+
+.prevbtn:hover,
+.nextbtn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+@media (max-width: 767px) {
+  .product {
+    width: 150px;
+    height: 150px;
+  }
+
+  .productImage {
+    width: 100px;
+    height: 100px;
+  }
+
+  .infoTitle {
+    font-size: 10px !important;
+
+  }
+
+  .productRating {
+
+    font-size: 9px !important;
+  }
+
+  .productPrice {
+    font-size: 10px !important;
+  }
+
+  .prevbtn,
+  .nextbtn {
+    font-size: 18px;
+    padding: 8px;
+  }
+}
+
+
+
+@media (min-width: 1024px) {
+  .product {
+    width: 200px;
+    height: 250px;
+  }
+
+  .productImage {
+    width: 100px;
+    height: 150px;
+  }
+
+  .productInfo {
+    font-size: 14px;
+  }
+
+  .productRating {
+    font-size: 14px;
+  }
+
+  .productPrice {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,1630 @@
+{
+  
+ 
+"vivo": [
+  {
+    "id": 1,
+    "name": "vivo T3x 5G (Celestial Green, 128 GB)  (6 GB RAM)",
+    "price": 12000,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/g/j/t3x-5g-v2338-vivo-original-imahyyzaqhgwzfup.jpeg?q=70",
+    "sales": 5,
+    "rating": 3,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "name": "vivo T3y 5G (Celestial Green, 128 GB)  (6 GB RAM)",
+    "price": 18000,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/j/l/-original-imagjdmzf9cwxyt4.jpeg?q=70",
+    "sales": 10,
+    "rating": 5,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "vivo T2x 5G (Celestial Green, 128 GB)  (6 GB RAM)",
+    "price": 25000,
+    "image": "https://m.media-amazon.com/images/I/71q-C6DI7DL._AC_UY327_FMwebp_QL65_.jpg",
+    "sales": 3,
+    "rating": 1,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "vivo T1 5G (Celestial Green, 128 GB)  (6 GB RAM)",
+    "price": 32000,
+    "image": "https://rukminim2.flixcart.com/image/312/312/l2p23rk0/mobile/x/b/y/-original-imagdznhnzmzfbwx.jpeg?q=70",
+    "sales": 8,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 5,
+    "name": "vivo T2 pro 5G (Celestial Green, 128 GB)  (6 GB RAM)",
+    "price": 40000,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
+    "sales": 2,
+    "rating": 2,
+    "discount": 10
+  }
+]
+
+,
+  "samsung": [
+  {
+    "id": 1,
+    "name": "Samsung Galaxy M31 (Ocean Blue, 128 GB)  (6 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/k7f34i80/mobile/h/e/4/samsung-galaxy-m31-sm-m315fzbdins-original-imafpnrzfeyrmq8a.jpeg?q=70",
+    "price": 14999,
+    "sales": 8,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy A31 (Prism Crush Black, 128 GB)  (6 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/kamtsi80/mobile/g/2/j/samsung-galaxy-a31-sm-a315fzkwins-original-imafs5p5ffjbkf3w.jpeg?q=70",
+    "price": 16999,
+    "sales": 5,
+    "rating": 3,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy A12 (Blue, 128 GB)  (4 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/x/n/galaxy-m14-5g-sm-m146b-samsung-original-imagzwssnfnzkpex.jpeg?q=70",
+    "price": 13999,
+    "sales": 3,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy A22 (Black, 128 GB)  (6 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/w/0/-original-imahfayjnvdtzhbn.jpeg?q=70",
+    "price": 18999,
+    "sales": 10,
+    "rating": 5,
+    "discount": 50
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy F62 (Laser Grey, 128 GB)  (6 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/4/y/h/galaxy-f62-sm-e625fzkdins-samsung-original-imagygxzrsmbhptk.jpeg?q=70",
+    "price": 17999,
+    "sales": 6,
+    "rating": 4,
+    "discount": 10
+  }
+]
+
+,
+  "realme": [
+  {
+    "id": 1,
+    "name": "realme X7 Max 5G (Mercury Silver, 128 GB) (8 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kpbipow0/mobile/n/o/p/x7-max-rmx3031-realme-original-imag3kpnzv6nzwq2.jpeg?q=70",
+    "price": 26999,
+    "sales": 6,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "name": "realme GT 5G (Dashing Blue, 128 GB) (8 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/l3rmzrk0/mobile/z/i/t/-original-imagetme2k2rva45.jpeg?q=70",
+    "price": 34999,
+    "sales": 8,
+    "rating": 5,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "realme 8 Pro (Infinite Blue, 128 GB) (8 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/kmmcrrk0/mobile/d/e/m/8-pro-rmx3081-realme-original-imagfgpgfexvzngd.jpeg?q=70",
+    "price": 19999,
+    "sales": 4,
+    "rating": 3,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "realme X7 5G (Space Silver, 128 GB) (6 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/kkh6zrk0/mobile/8/x/l/x7-rmx3092-realme-original-imafztjzgzphyp6q.jpeg?q=70",
+    "price": 19999,
+    "sales": 7,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 5,
+    "name": "realme Narzo 30 Pro 5G (Sword Black, 128 GB) (8 GB RAM)",
+    "image": "https://rukminim2.flixcart.com/image/612/612/klgx0280/mobile/q/s/t/narzo-30-pro-5g-rmx2117-realme-original-imagyhbkzmtcfyyh.jpeg?q=70",
+    "price": 18999,
+    "sales": 5,
+    "rating": 3,
+    "discount": 10
+  }
+]
+
+,
+ "Iphone": [
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+    "price": 99999,
+    "sales": 3,
+    "rating": 2,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+    "price": 109999,
+    "sales": 8,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+    "price": 119999,
+    "sales": 5,
+    "rating": 3,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+    "price": 129999,
+    "sales": 2,
+    "rating": 1,
+    "discount": 10
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+    "price": 139999,
+    "sales": 7,
+    "rating": 5,
+    "discount": 50
+  }
+]
+
+,
+"washingMachine": [
+  {
+    "id": 1,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 19999,
+    "sales": 4,
+    "discount": 10,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 22999,
+    "sales": 6,
+    "discount": 20,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 24999,
+    "sales": 1,
+    "discount": 30,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 26999,
+    "sales": 9,
+    "discount": 40,
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 28999,
+    "sales": 2,
+    "discount": 50,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 30999,
+    "sales": 8,
+    "discount": 10,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 32999,
+    "sales": 7,
+    "discount": 20,
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 34999,
+    "sales": 3,
+    "discount": 30,
+    "rating": 3
+  },
+  {
+    "id": 9,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 36999,
+    "sales": 5,
+    "discount": 40,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 38999,
+    "sales": 10,
+    "discount": 50,
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 40999,
+    "sales": 1,
+    "discount": 10,
+    "rating": 1
+  },
+  {
+    "id": 12,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 42999,
+    "sales": 4,
+    "discount": 20,
+    "rating": 4
+  },
+  {
+    "id": 13,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 44999,
+    "sales": 6,
+    "discount": 30,
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 55679,
+    "sales": 8,
+    "discount": 40,
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "name": "LG 7 kg 5 Star with Steam",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/m/1/g/-original-imagx7qhej8qthtp.jpeg?q=70",
+    "price": 50329,
+    "sales": 9,
+    "discount": 20,
+    "rating": 3
+  }
+]
+,
+  "smartTv": [
+  {
+    "id": 1,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 49990,
+    "sales": 4,
+    "rating": 3,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 51990,
+    "sales": 6,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 53990,
+    "sales": 1,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 55990,
+    "sales": 9,
+    "rating": 5,
+    "discount": 50
+  },
+  {
+    "id": 5,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 57990,
+    "sales": 2,
+    "rating": 1,
+    "discount": 10
+  },
+  {
+    "id": 6,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 59990,
+    "sales": 8,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 7,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 61990,
+    "sales": 7,
+    "rating": 3,
+    "discount": 40
+  },
+  {
+    "id": 8,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 63990,
+    "sales": 3,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 9,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 65990,
+    "sales": 5,
+    "rating": 3,
+    "discount": 50
+  },
+  {
+    "id": 10,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 67990,
+    "sales": 10,
+    "rating": 5,
+    "discount": 10
+  },
+  {
+    "id": 11,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 69990,
+    "sales": 1,
+    "rating": 1,
+    "discount": 20
+  },
+  {
+    "id": 12,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 71990,
+    "sales": 4,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 13,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 73990,
+    "sales": 6,
+    "rating": 3,
+    "discount": 40
+  },
+  {
+    "id": 14,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 75990,
+    "sales": 7,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 15,
+    "name": "SAMSUNG Crystal Vision 4K",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+    "price": 77990,
+    "sales": 5,
+    "rating": 3,
+    "discount": 10
+  }
+]
+
+,
+ "Fridge": [
+  {
+    "id": 1,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 45000,
+    "sales": 4,
+    "rating": 3,
+    "discount": 20
+  },
+  {
+    "id": 2,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 32000,
+    "sales": 6,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 55000,
+    "sales": 1,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 68000,
+    "sales": 9,
+    "rating": 5,
+    "discount": 50
+  },
+  {
+    "id": 5,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 40000,
+    "sales": 2,
+    "rating": 1,
+    "discount": 10
+  },
+  {
+    "id": 6,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 48000,
+    "sales": 8,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 7,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 30000,
+    "sales": 7,
+    "rating": 3,
+    "discount": 40
+  },
+  {
+    "id": 8,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 55000,
+    "sales": 3,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 9,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 42000,
+    "sales": 5,
+    "rating": 3,
+    "discount": 50
+  },
+  {
+    "id": 10,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 75000,
+    "sales": 10,
+    "rating": 5,
+    "discount": 10
+  },
+  {
+    "id": 11,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 60000,
+    "sales": 1,
+    "rating": 1,
+    "discount": 20
+  },
+  {
+    "id": 12,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 48000,
+    "sales": 4,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 13,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 65000,
+    "sales": 6,
+    "rating": 3,
+    "discount": 40
+  },
+  {
+    "id": 14,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 52000,
+    "sales": 7,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 15,
+    "brand": "samsungFridge",
+    "name": "SAMSUNG 236 L Frost Free Double Door",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
+    "price": 35000,
+    "sales": 5,
+    "rating": 3,
+    "discount": 10
+  }
+]
+,"AC":[
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 48392,
+      "sales": 7,
+      "latest": true,
+      "rating": 4,
+      "discount": 30
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 56381,
+      "sales": 9,
+      "latest": false,
+      "rating": 5,
+      "discount": 20
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 33544,
+      "sales": 4,
+      "latest": true,
+      "rating": 3,
+      "discount": 10
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 42179,
+      "sales": 5,
+      "latest": false,
+      "rating": 4,
+      "discount": 30
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 59345,
+      "sales": 3,
+      "latest": true,
+      "rating": 5,
+      "discount": 50
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 37420,
+      "sales": 6,
+      "latest": false,
+      "rating": 2,
+      "discount": 20
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 45578,
+      "sales": 8,
+      "latest": true,
+      "rating": 3,
+      "discount": 10
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 31589,
+      "sales": 1,
+      "latest": false,
+      "rating": 4,
+      "discount": 30
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 52863,
+      "sales": 2,
+      "latest": true,
+      "rating": 5,
+      "discount": 50
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 38402,
+      "sales": 7,
+      "latest": false,
+      "rating": 4,
+      "discount": 30
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 45613,
+      "sales": 5,
+      "latest": true,
+      "rating": 2,
+      "discount": 10
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 54231,
+      "sales": 3,
+      "latest": false,
+      "rating": 5,
+      "discount": 50
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 37654,
+      "sales": 6,
+      "latest": true,
+      "rating": 3,
+      "discount": 20
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 48879,
+      "sales": 9,
+      "latest": false,
+      "rating": 4,
+      "discount": 30
+  },
+  {
+      "image": "https://m.media-amazon.com/images/I/61EGlfoZULL._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "LG 1.5 Ton 5 Star DUAL Inverter",
+      "price": 59998,
+      "sales": 4,
+      "latest": true,
+      "rating": 5,
+      "discount": 50
+  }
+]
+
+,
+ "Living-room-furniture": [
+  {
+    "id": 1,
+    "name": "Recliners",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jmz7csw0/recliner/f/7/7/brown-pvc-24002-woodness-original-imaf9rzvrrav8phf.jpeg?q=70",
+    "price": 799,
+    "sales": 8,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "id": 2,
+    "name": "Book shelves",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jql8fbk0/book-shelf/z/7/h/particle-board-fibscheckersbs5twt-home-by-nilkamal-walnut-original-imafckhkkcn5qk7y.jpeg?q=70",
+    "price": 449,
+    "sales": 5,
+    "rating": 3,
+    "discount": 20
+  },
+  {
+    "id": 3,
+    "name": "Inflatable sofas",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jevpj0w0/inflatable-sofa/p/d/g/pvc-sorange01-wds-original-imaex8j6trqmfkpt.jpeg?q=70",
+    "price": 299,
+    "sales": 3,
+    "rating": 2,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "Side tables",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jgy0fbk0/side-table/h/9/v/mango-wood-r1811-bedside-table-the-jaipur-living-honey-brown-original-imaf52jf82qk5mhz.jpeg?q=70",
+    "price": 149,
+    "sales": 7,
+    "rating": 5,
+    "discount": 40
+  },
+  {
+    "id": 5,
+    "name": "Office tables",
+    "image": "https://rukminim2.flixcart.com/image/300/300/j5jx1u80/office-study-table/w/8/p/particle-board-winner-study-table-spacewood-natural-wenge-original-imaew7tvjbzhmphg.jpeg?q=70",
+    "price": 599,
+    "sales": 6,
+    "rating": 4,
+    "discount": 50
+  }
+]
+
+,
+  "Bedroom-Furniture": [
+  {
+    "id": 1,
+    "name": "King Mattresses",
+    "image": "https://rukminim2.flixcart.com/image/300/300/j7td5e80/bed-mattress/y/m/c/6-60-72-ecosoft-ecosoft-6-size-72x60-thickness-6-pocket-spring-original-imaexyg6uga4mdgn.jpeg?q=70",
+    "price": 899,
+    "sales": 10,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "id": 2,
+    "name": "Portable laptop table",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jqv8ia80/portable-laptop-table/u/6/c/rubber-wood-foldable-wooden-laptop-desk-for-bed-walnut-black-original-imafcp5geksbptjg.jpeg?q=70",
+    "price": 249,
+    "sales": 7,
+    "rating": 3,
+    "discount": 20
+  },
+  {
+    "id": 3,
+    "name": "Dressing Tables",
+    "image": "https://rukminim2.flixcart.com/image/300/300/j6nxdow0/dressing-table/5/k/h/particle-board-kosmo-dresser-liwa-in-rigato-walnut-spacewood-original-imaewszzkghuftue.jpeg?q=70",
+    "price": 599,
+    "sales": 5,
+    "rating": 4,
+    "discount": 15
+  },
+  {
+    "id": 4,
+    "name": "Collapsible wardrobe",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jeokbrk0/collapsible-wardrobe/a/g/g/pp-1383-furn-central-colorful-leaves-original-imaf3bnyupywy45y.jpeg?q=70",
+    "price": 349,
+    "sales": 8,
+    "rating": 4,
+    "discount": 25
+  },
+  {
+    "id": 5,
+    "name": "Entertainment unit",
+    "image": "https://rukminim2.flixcart.com/image/300/300/j7f2qvk0/tv-entertainment-unit/7/f/y/particle-board-etvlwwen0052p-perfect-homes-by-flipkart-wenge-original-imaexjepxxuh9dvg.jpeg?q=70",
+    "price": 699,
+    "sales": 6,
+    "rating": 5,
+    "discount": 30
+  }
+]
+
+,
+ "Space-Saving-Furniture": [
+  {
+    "id": 1,
+    "name": "Drawers",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jcz4e4w0/cabinet-drawer/y/v/v/particle-board-aston-6d-storage-cabinet-wenge-homefull-wenge-original-imaffzffqzas3t8w.jpeg?q=70",
+    "price": 499,
+    "sales": 7,
+    "rating": 4,
+    "discount": 15
+  },
+  {
+    "id": 2,
+    "name": "Shoe cabinets",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jkk1hu80/shoe-rack/h/g/n/minima-delux-shoe-rack-spacewood-original-imaf7vt7nvvzmtdk.jpeg?q=70",
+    "price": 349,
+    "sales": 5,
+    "rating": 3,
+    "discount": 10
+  },
+  {
+    "id": 3,
+    "name": "Kitchen cabinet",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jy7kyvk0/kitchen-cabinet/v/7/2/stainless-steel-fksbkcsv2-flipkart-smartbuy-silver-original-imaf5wpfdpf5qqb9.jpeg?q=70",
+    "price": 799,
+    "sales": 8,
+    "rating": 5,
+    "discount": 20
+  },
+  {
+    "id": 4,
+    "name": "Side racks",
+    "image": "https://rukminim2.flixcart.com/image/300/300/j8lxyfk0/shoe-rack/q/s/w/fr0sr4l03-frazzer-original-imaeyh8nyc59vczt.jpeg?q=70",
+    "price": 249,
+    "sales": 6,
+    "rating": 4,
+    "discount": 25
+  },
+  {
+    "id": 5,
+    "name": "Book shelves",
+    "image": "https://rukminim2.flixcart.com/image/300/300/jjubki80/book-shelf/r/j/f/galvanised-steel-sj05-furn-central-snoopy-original-imaf5wpfxzuy3k2e.jpeg?q=70",
+    "price": 599,
+    "sales": 9,
+    "rating": 4,
+    "discount": 15
+  }
+]
+
+,
+ "BestOfElectronics": [
+  {
+    "id": 1,
+    "name": "Realme TWS",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+    "price": 129,
+    "sales": 120,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 2,
+    "name": "Boat Audio",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/x/n/o/-original-imagzu7myhssag4g.jpeg?q=70",
+    "price": 79,
+    "sales": 95,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "Canon DSLR",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/i/o/c/eos-r100-24-1-eos-r100-kit-canon-original-imagqeydhsxgacxp.jpeg?q=70",
+    "price": 699,
+    "sales": 55,
+    "rating": 5,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "Canon Printer",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kmp7ngw0/printer/i/m/f/lbp6030b-canon-original-imagfjeurfwphbjp.jpeg?q=70",
+    "price": 149,
+    "sales": 80,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 5,
+    "name": "Noise Smartwatch",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/8/u/s/-original-imahf5ngfckrg5ug.jpeg?q=70",
+    "price": 199,
+    "sales": 65,
+    "rating": 4,
+    "discount": 10
+  }
+]
+
+,
+  "Beauty,Food,Toys & More": [
+  {
+    "id": 1,
+    "name": "Motovolt Electric cycle",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-cycle/r/i/d/urbn-long-range-standard-red-white-20-motovolt-single-speed-original-imagxfznwuqzwgdq.jpeg?q=70",
+    "price": 799,
+    "sales": 50,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 2,
+    "name": "Magnetic Chess",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/board-game/a/h/3/3-magnetic-chess-set-with-folding-board-for-kids-and-adults-original-imagzhjcwyrjfhbw.jpeg?q=70",
+    "price": 299,
+    "sales": 30,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "id": 3,
+    "name": "Remote car",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/remote-control-toy/n/a/m/famous-car-remote-control-3d-with-led-lights-chargeable-1-caddle-original-imahfbqryyaxct5n.jpeg?q=70",
+    "price": 249,
+    "sales": 40,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "id": 4,
+    "name": "Mama-earth facewash",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/z/u/n/-original-imagzhdtx5rmx56d.jpeg?q=70",
+    "price": 199,
+    "sales": 60,
+    "rating": 5,
+    "discount": 30
+  },
+  {
+    "id": 5,
+    "name": "Makeup Brush Applicator",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/brush-applicator/l/y/k/-original-imahygdctj649anh.jpeg?q=70",
+    "price": 149,
+    "sales": 70,
+    "rating": 4,
+    "discount": 20
+  }
+]
+
+,
+  "Sports,Healthcare & More": [
+  {
+    "id": 1,
+    "name": "FITKIT Tread mill",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/treadmill/y/q/l/ft100m-3-25hp-peak-motorized-multifunction-with-diet-plan-original-imagtkehfgcps7cn.jpeg?q=70",
+    "price": 899,
+    "sales": 50,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "id": 2,
+    "name": "Crow Meridian Mountain Cycle",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/cycle/d/a/h/meridian-single-fully-fitted-non-geared-front-suspension-dual-original-imahfa4gjsqzdzaz.jpeg?q=70",
+    "price": 499,
+    "sales": 30,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "id": 3,
+    "name": "Nafa MicroPhone",
+    "image": "https://rukminim2.flixcart.com/image/612/612/krtjgcw0/microphone/x/h/j/3-5mm-clip-metal-microphone-for-voice-recording-lapel-mic-mobile-original-imag5gxrug6fcbct.jpeg?q=70",
+    "price": 349,
+    "sales": 40,
+    "rating": 4,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "name": "Musical Keyboard",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/musical-keyboard/8/e/e/37-0-4-piano-keyboard-toy-kids-with-mic-dc-power-option-original-imahyzyjmxdps7yz.jpeg?q=70",
+    "price": 199,
+    "sales": 60,
+    "rating": 5,
+    "discount": 20
+  },
+  {
+    "id": 5,
+    "name": "Yoga Matt",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sport-mat/e/v/e/6mm-ultra-luxurious-eva-yoga-mat-anti-skid-home-exercise-gym-original-imagpgs2mgfkbnan.jpeg?q=70",
+    "price": 249,
+    "sales": 70,
+    "rating": 4,
+    "discount": 10
+  }
+]
+
+,
+  "electronics": [
+  {
+    "image": "https://m.media-amazon.com/images/I/71MWwCGrVqL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "ZHIZUKA Telescope Zoom 90X HD Focus",
+    "price": 1999,
+    "sales": 20,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81zfemWIApL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "JYX Karaoke Speaker",
+    "price": 15200,
+    "sales": 10,
+    "rating": 5,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41iDamr-+OL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Yale Tye Digital Door Lock",
+    "price": 4999,
+    "sales": 30,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61ojPJAgfqL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "AIYIMA T9 PRO 200W Bluetooth Amplifier",
+    "price": 13999,
+    "sales": 15,
+    "rating": 4,
+    "discount": 40
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71hukwaV2YL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Healthgenie Weight Machine",
+    "price": 449,
+    "sales": 40,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51GDGjwcpBL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Multi Retractable 3.0A Fast Charger",
+    "price": 89,
+    "sales": 50,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61Pg1H7U15L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Zodo 8. 5 inch LCD E-Writer",
+    "price": 127,
+    "sales": 25,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81ome4arK0L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Universal Carry Travel Gadget Bag For Cables",
+    "price": 474,
+    "sales": 35,
+    "rating": 5,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61-fpVt1cYL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "HyperX Pulsefire Core RGB USB Gaming Mouse",
+    "price": 2366,
+    "sales": 12,
+    "rating": 4,
+    "discount": 30
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71Zf9uUp+GL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "STRIFF Adjustable Laptop Tabletop Stand",
+    "price": 269,
+    "sales": 18,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61YlSik3SOL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "GLUN® Electronic Portable Digital LED Screen",
+    "price": 249,
+    "sales": 22,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81UKviowwNL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "THEMISTO - 8 In 1 Corded_electric Soldering Iron Kit",
+    "price": 259,
+    "sales": 28,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51jVpGL1-MS._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Sulfar Screwdriver Set",
+    "price": 149,
+    "sales": 32,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/611xLY9D7RL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Amazon B Electronic Keypad Locker",
+    "price": 3900,
+    "sales": 8,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71wc6OS21cL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Oral B Electric Toothbrush",
+    "price": 499,
+    "sales": 45,
+    "rating": 5,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71FqbiAQh0L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "VEBETO Dancing Cactus",
+    "price": 698,
+    "sales": 20,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71T9yEDAItL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Tukzer Laptop Screen Keyboard Cleaner Kit",
+    "price": 675,
+    "sales": 15,
+    "rating": 4,
+    "discount": 50
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/518grrfPw8L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Portronics Power  Sockets",
+    "price": 799,
+    "sales": 25,
+    "rating": 4,
+    "discount": 10
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71knuFDsYwL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "AGARO Compressed Air Duster",
+    "price": 2999,
+    "sales": 5,
+    "rating": 4,
+    "discount": 20
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61DcPlgUZOL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "CASIO Caluclator",
+    "price": 538,
+    "sales": 38,
+    "rating": 4,
+    "discount": 30
+  }
+]
+,
+  "fashion":[
+    {
+        "image": "https://m.media-amazon.com/images/I/611736CYH6L._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Leriya Fashion-Kurta Set for Women",
+        "price": 539,
+        "sales": 7,
+        "latest": true,
+        "rating": 4,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81ZMVtVyL0L._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "MIRCHI FASHION-Printed saree",
+        "price": 426,
+        "sales": 5,
+        "latest": false,
+        "rating": 3,
+        "discount": 10
+    },
+    {
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/z/8/l/xs-gul-11-gf-gul-fashion-original-imagkpkhnsmtz2vh.jpeg?q=70",
+        "name": "Gf Gul Fashion Women Viscose Rayon Kurta Pant Set",
+        "price": 419,
+        "sales": 8,
+        "latest": true,
+        "rating": 5,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61ZcB-VZylL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "SERA Women TOP",
+        "price": 441,
+        "sales": 4,
+        "latest": false,
+        "rating": 3,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61FVEqUK9qL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "London Hills Oversized T-Shirt",
+        "price": 663,
+        "sales": 6,
+        "latest": true,
+        "rating": 4,
+        "discount": 50
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51TyUq8pJnL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "GRECIILOOKS Women Regular Fit Trouser",
+        "price": 549,
+        "sales": 3,
+        "latest": false,
+        "rating": 2,
+        "discount": 10
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71V0TFm3MsL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "FUNDAY FASHION Women's Denim Blend Jacket",
+        "price": 349,
+        "sales": 9,
+        "latest": true,
+        "rating": 5,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81RBgzPozmL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Jockey Slip On Active Bra",
+        "price": 539,
+        "sales": 2,
+        "latest": false,
+        "rating": 4,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61eU-2gSbgL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Hopscotch Print T-Shirt With Jacket & Pant Set",
+        "price": 867,
+        "sales": 1,
+        "latest": true,
+        "rating": 5,
+        "discount": 50
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71Ujdzf19AL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Fashion Dream Floral Printed Calf Length Dress",
+        "price": 391,
+        "sales": 7,
+        "latest": false,
+        "rating": 3,
+        "discount": 10
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/31gzeMlz7eL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Generic Arham Slub Soft Lycra",
+        "price": 449,
+        "sales": 8,
+        "latest": true,
+        "rating": 4,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61R0z2SWUfL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Niren Enterprise Baby Girl Dresses",
+        "price": 509,
+        "sales": 5,
+        "latest": false,
+        "rating": 5,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/514ftDnqfvL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Googo Gaaga Boy's T-Shirt",
+        "price": 399,
+        "sales": 6,
+        "latest": true,
+        "rating": 3,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/5147PHYBReL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Naughty Ninos Girls Pinafore Dress",
+        "price": 719,
+        "sales": 4,
+        "latest": false,
+        "rating": 4,
+        "discount": 50
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61eOKczd8sL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "AJ DEZINES Shirt Shorts Set",
+        "price": 873,
+        "sales": 9,
+        "latest": true,
+        "rating": 5,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71hQBFoK-gL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "BabyMoon Headwear Set",
+        "price": 233,
+        "sales": 2,
+        "latest": false,
+        "rating": 2,
+        "discount": 10
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51omZR88S8L._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Blue Squad Men's Cotton Linen Casual Shirt",
+        "price": 559,
+        "sales": 7,
+        "latest": true,
+        "rating": 4,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61mOO00QUKL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "PREPPY & COOL Mens 100% Cotton Solid Casual Shirt",
+        "price": 835,
+        "sales": 8,
+        "latest": false,
+        "rating": 5,
+        "discount": 50
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51FICIl4KjL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Lymio men cargo pant",
+        "price": 649,
+        "sales": 6,
+        "latest": true,
+        "rating": 3,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/612xOm1X6LL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Fashion Frill Black Silver Chain",
+        "price": 281,
+        "sales": 3,
+        "latest": false,
+        "rating": 4,
+        "discount": 10
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71tZtxBhOJL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Blue Leather Wallet",
+        "price": 350,
+        "sales": 5,
+        "latest": true,
+        "rating": 5,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61yATkar4uL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Textured Shirts for Men",
+        "price": 429,
+        "sales": 4,
+        "latest": false,
+        "rating": 3,
+        "discount": 20
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51Zi8fZ37KL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "TOPLOT Causal Trouser",
+        "price": 499,
+        "sales": 6,
+        "latest": true,
+        "rating": 4,
+        "discount": 30
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51IER4hH-oL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "GLORYBOYZ Relaxed Fit",
+        "price": 399,
+        "sales": 5,
+        "latest": false,
+        "rating": 2,
+        "discount": 10
+    }
+]
+,
+
+  "toys": [
+    {
+      "image": "https://m.media-amazon.com/images/I/71E-+k3XfYL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Toy Zone Frog Eat Beans Game-4 Players",
+      "price": 629,
+      "sales": 5,
+      "latest": false,
+      "rating": 2,
+      "discount": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61r-TFmj6fL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Mirana C-Type Indoor Floating Hoverball Soccer",
+      "price": 699,
+      "sales": 8,
+      "latest": true,
+      "rating": 5,
+      "discount": 30
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61zrvU5u1lL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "PARTEET Remote Control Jeep Car Toy",
+      "price": 699,
+      "sales": 6,
+      "latest": false,
+      "rating": 3,
+      "discount": 10
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71fb9DnRwQS._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "PRIME DEALS Unbreakable Pull Back Vehicles",
+      "price": 399,
+      "sales": 3,
+      "latest": true,
+      "rating": 4,
+      "discount": 50
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71k4tvhd2IL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Kinglucky Karaoke Machine for Kids, with Wireless Mic",
+      "price": 582,
+      "sales": 7,
+      "latest": false,
+      "rating": 2,
+      "discount": 40
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61YVpEBCUhL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Storio Talking Cactus",
+      "price": 308,
+      "sales": 2,
+      "latest": false,
+      "rating": 1,
+      "discount": 30
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/711ebKW3YIL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Amitasha 3 Pcs Jumping Rabbit Bird & Penguin",
+      "price": 331,
+      "sales": 9,
+      "latest": true,
+      "rating": 5,
+      "discount": 50
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61PrqaK8A3L._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "GRAPHENE 32 Hole Electric Gatling Bubble Machine Gun",
+      "price": 334,
+      "sales": 10,
+      "latest": false,
+      "rating": 4,
+      "discount": 10
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61LmFaqwo4L._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Jungle Cartoon Wild Animal Toys Figure",
+      "price": 269,
+      "sales": 1,
+      "latest": false,
+      "rating": 3,
+      "discount": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71fxesH-fAL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "TOYZONE Friction Powered Mini Truck",
+      "price": 145,
+      "sales": 4,
+      "latest": true,
+      "rating": 2,
+      "discount": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71uR+ohQ2hL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Kidology Car Race Tracks Toy",
+      "price": 1439,
+      "sales": 8,
+      "latest": false,
+      "rating": 3,
+      "discount": 30
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/417eK2Qnc0L._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Amitasha Plastic Archery Bow",
+      "price": 284,
+      "sales": 7,
+      "latest": true,
+      "rating": 5,
+      "discount": 40
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71G+2CS7NxL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Kids/Baby Tricycle",
+      "price": 1698,
+      "sales": 3,
+      "latest": false,
+      "rating": 2,
+      "discount": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61-31DPnzIL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "WireScorts Baby Plastic First Block Shape Sorter",
+      "price": 269,
+      "sales": 2,
+      "latest": false,
+      "rating": 4,
+      "discount": 40
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71sh-Yt3EmL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Babique Elephant Sitting Plush Soft Toy",
+      "price": 232,
+      "sales": 6,
+      "latest": true,
+      "rating": 1,
+      "discount": 30
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61U80-WECbL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "VEBETO Educational Laptop Computer Toy with Mouse",
+      "price": 998,
+      "sales": 4,
+      "latest": false,
+      "rating": 2,
+      "discount": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51olPDPJCTL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Toy Guitar",
+      "price": 279,
+      "sales": 5,
+      "latest": true,
+      "rating": 5,
+      "discount": 50
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51Q2P7fTwVL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "VGRASSP Walkie Talkie Toys for Kids",
+      "price": 367,
+      "sales": 1,
+      "latest": false,
+      "rating": 3,
+      "discount": 40
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71vnA+WkRsL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Lifelong Scooter for Kids",
+      "price": 2499,
+      "sales": 9,
+      "latest": true,
+      "rating": 4,
+      "discount": 10
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61fWiVBXHkL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Toyzone Baby Panda Magic Car-50940",
+      "price": 1189,
+      "sales": 5,
+      "latest": false,
+      "rating": 1,
+      "discount": 20
+    }
+  ]
+
+
+
+}
